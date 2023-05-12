@@ -1,8 +1,8 @@
 # Hey, I'm Leo! 👋
 
-#### I love to build things, learn, research, and explore technologies 💡
+#### I love to research, explore, learn new technologies, and build things 💡
 
-#### I've been programming since 2017, and since early 2018 I've been programming for a living 💻
+#### I've been programming since 2017, and since 2018 I've been programming for a living 💻
 
 #### I try to share my passion about coding with people around me as much as I can, because being inspired by technology is what made me love my profession so much ❤️
 
