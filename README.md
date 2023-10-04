@@ -1,12 +1,14 @@
-# Hey, I'm Leo! 👋
+# Hello, I'm Leo! 👋
 
-#### I love to research, explore, learn new technologies, and build things 💡
+I'm a Brazilian Software Engineer who loves to build web applications, from back-end to front-end. ⚒️
 
-#### I've been programming since 2017, and since 2018 I've been programming for a living 💻
+I've been researching, exploring, and learning new technologies when building new things since 2017 💡
 
-#### I try to share my passion for coding with people around me as much as I can because being inspired by technology is what made me love my profession so much ❤️
+I've been programming for a living since 2018, having experiences in sectors like finance, healthcare, and SaaS  💻
 
-#### Here are the technologies I have loved to work with professionally throughout my career 💼
+I try to share my passion for coding with people around me as much as I can because being inspired by technology is what made me love my profession ❤️
+
+Here are the technologies I have professional experience with 💼
 
 <div style="display: inline_block">
   <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -15,5 +17,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
-
-## If you wish to contact me, here is my [Linkedin](https://www.linkedin.com/in/leoprietsch) profile!
+<br />
+You can reach out to me through my <a href="https://www.linkedin.com/in/leoprietsch">LinkedIn</a>!
